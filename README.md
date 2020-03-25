@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-2014 Training
+2014 Training.
